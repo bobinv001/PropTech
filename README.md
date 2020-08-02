@@ -1,6 +1,6 @@
 # PropTech
 
-Simple listings page using react, typescript, styled components, styled system
+Simple listings page using react, typescript, styled components, styled system. Using faker and json-server for API
 
 ## Build instructions
 
